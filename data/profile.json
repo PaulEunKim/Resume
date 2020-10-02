@@ -1,9 +1,9 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
+    "phone": "720 240 8235",
     "email": "Paul.Eun.Kim@gmail.com",
     "website": "https://NEEDSUPDATE.com",
-    "location": "Kiev, Ukraine"
+    "location": "Denver, Colorado"
   },
   "skills": [
     {
@@ -199,7 +199,7 @@
       ]
     }
   ],
-  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "summary": "Aspiring engineer, hard worker, motivated by craftmanship and impactful technology.",
   "education": [
     {
       "institution": "Middle East Technical University, Turkey",
@@ -216,11 +216,11 @@
   ],
   "experience": [
     {
-      "role": "Consultant",
-      "company": "Baran Cezayirli Consulting",
-      "description": "I consult startups to take their concept to the next level.",
-      "start": "08/2018",
-      "end": ""
+      "role": "Amazon Associate",
+      "company": "",
+      "description": "Consistently performed at #1 or #2 fastest stower out of 100+ associates, or about twice the average output. Set the record fastest stow rate in a shift.",
+      "start": "August 2019",
+      "end": "May 2020"
     },
     {
       "role": "Full Stack Tech Lead",
