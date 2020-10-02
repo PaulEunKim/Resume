@@ -11,6 +11,7 @@ const Education = ({ data }) => (
           <p className="text-sm text-neutral-500 font-light">
             {item.start} - {item.end}
           </p>
+          <p className="py-6">{item.description}</p>
         </div>
       ))}
   </section>
