@@ -1,8 +1,8 @@
 {
   "contact": {
     "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
-    "website": "https://barancezayirli.com",
+    "email": "Paul.Eun.Kim@gmail.com",
+    "website": "https://NEEDSUPDATE.com",
     "location": "Kiev, Ukraine"
   },
   "skills": [
@@ -304,5 +304,5 @@
       "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
     }
   ],
-  "fullname": "Baran Cezayirli"
+  "fullname": "Paul Kim"
 }
