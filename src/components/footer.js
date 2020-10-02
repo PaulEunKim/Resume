@@ -6,7 +6,7 @@ const Footer = ({ social }) => (
   <footer className="py-6 mx-auto items-center justify-between md:flex">
     <div className="items-center flex tracking-wide mb-5 md:mb-0 justify-center text-sm ml-2">
       <span className="inline-block mr-1">
-        © {new Date().getFullYear()} | Developed with
+        © {new Date().getFullYear()} | Made with
       </span>
       <span className="inline-block mr-1">
         <HeartIcon
@@ -15,17 +15,21 @@ const Footer = ({ social }) => (
         />
       </span>
       <span className="inline-block mr-1">by</span>
+        Paul Kim
+    </div>
+    <div className="text-sm">
+      Free resume template from 
       <a
         className="text-primary-500 hover:text-primary-700 font-bold"
         href="https://barancezayirli.com"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Baran Cezayirli
+         {' '}Baran Cezayirli
       </a>
     </div>
     {social && (
-      <div className="flex items-center justify-center ml-2">
+      <div className="flex items-center justify-end ml-1">
         {social.map(item => (
           <a
             key={item.service}
