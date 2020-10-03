@@ -64,9 +64,6 @@
           "name": "Node"
         },
         {
-          "name": "Flusk"
-        },
-        {
           "name": "Express"
         },
         {
@@ -76,52 +73,7 @@
           "name": "Apollo"
         },
         {
-          "name": "Next"
-        },
-        {
           "name": "Amplify"
-        }
-      ]
-    },
-    {
-      "title": "Software",
-      "type": "tag",
-      "subskills": [
-        {
-          "name": "Docker"
-        },
-        {
-          "name": "Jira"
-        },
-        {
-          "name": "Unity"
-        },
-        {
-          "name": "Godot"
-        },
-        {
-          "name": "Google Analytics"
-        }
-      ]
-    },
-    {
-      "title": "Databases",
-      "type": "tag",
-      "subskills": [
-        {
-          "name": "Postgresql"
-        },
-        {
-          "name": "Mongodb"
-        },
-        {
-          "name": "Parse"
-        },
-        {
-          "name": "Firebase"
-        },
-        {
-          "name": "Elastic Search"
         }
       ]
     }

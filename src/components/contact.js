@@ -32,7 +32,7 @@ const Contact = ({ field, value }) => (
           rel="noopener noreferrer"
           title="website"
         >
-          Personal Site
+          Github
         </a>
       </>
     )}
