@@ -78,7 +78,7 @@
       ]
     }
   ],
-  "summary": "Aspiring engineer, hard worker, motivated by craftmanship and impactful technology.",
+  "summary": "Data Science Student interested in machine learning, software development, and web architecture",
   "education": [
     {
       "institution": "Community College of Aurora",
@@ -90,22 +90,22 @@
   ],
   "experience": [
     {
-      "role": "Amazon - Warehouse Associate",
-      "company": "",
-      "description": "Stowed on average 425 packages/hour or about 2000 packages per night (average was ~1200). Helped DDE6 become the best performing delivery station in the state.",
+      "role": "Warehouse Associate",
+      "company": "Amazon",
+      "description": "Employee of the quarter (Winter ‘18) for working fast, always accepting the most difficult tasks, and never absent.",
       "start": "August 2019",
       "end": "May 2020"
     },
     {
-      "role": "Seoul BBQ & Sushi - Waiting Staff",
+      "role": "Waiter",
       "company": "Seoul BBQ & Sushi",
       "description": "Welcomed customers with a warm attitude, introduced them to different options of the menu, offered answers and concise descriptions to questions about items on the menu, and communicated efficiently with the entire team to best serve the customer.",
       "start": "August 2016",
       "end": "April 2017"
     },
     {
-      "role": "Target - Cashier & Customer Service",
-      "company": "Target Corporation",
+      "role": "Cashier",
+      "company": "Target",
       "description": "Worked efficiently to help customers check out while providing friendliness, provided customers with helpful answers to any questions on prices, items and promotions, and resolved disputes on prices, promotions, and dissatisfaction.",
       "start": "August 2015",
       "end": "May 2016"
