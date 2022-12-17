@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('C:/Users/paule/Resume/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Paul Kim | Computer Science Student","short_name":"CV","start_url":"/","background_color":"#f7f0eb","theme_color":"#21428f","display":"standalone","icon":"src/assets/site-icon.png","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"ec7bb9ab3ea7c05b5d92b6611ec2b120"},
+      plugin: require('C:/Users/Paul/WebstormProjects/Resume/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      options: {"plugins":[],"name":"Paul Kim | Computer Science Student","short_name":"CV","start_url":"/","background_color":"#f7f0eb","theme_color":"#21428f","display":"standalone","icon":"src/assets/site-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"ec7bb9ab3ea7c05b5d92b6611ec2b120"},
     },{
-      plugin: require('C:/Users/paule/Resume/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('C:/Users/Paul/WebstormProjects/Resume/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
